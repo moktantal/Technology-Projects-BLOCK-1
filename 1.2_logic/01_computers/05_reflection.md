@@ -16,7 +16,7 @@ Images should be stored in:
 images/components/
 ```
 
-| Component | Function | Key Specification |
+| Component | Function | Key Specification 
 |----------|----------|------------------|
 | CPU | | |
 | RAM | | |
